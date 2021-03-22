@@ -1,4 +1,4 @@
-![Movie]public/movie.png)
+![Movie](public/movie.png)
 
 ## Installation
 
