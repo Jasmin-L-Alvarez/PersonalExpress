@@ -1,0 +1,50 @@
+body{
+background-color: rgb(221, 221, 120);
+background-image: url('https://m.media-amazon.com/images/I/61kh9DwGm8L._AC_SL1200_.jpg');
+background-repeat: none;
+background-position: center;
+
+}
+.left{
+  width:15%;
+  height:15%;
+}
+h1 {
+font-size: 30px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+text-decoration: underline;
+
+}
+h2 {
+margin-left:38%;
+}
+
+h4{
+margin-left:43%;
+}
+
+
+h3{
+  text-align: center;
+  text-decoration: underline;
+}
+
+
+form{
+margin-left:35%;
+font-size: 18px;
+}
+
+input{
+  width:40%;
+  text-align: center;
+
+
+}
+
+.movie{
+  margin-left:24%;
+  font-size: 20px;
+}
+
